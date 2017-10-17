@@ -31,7 +31,7 @@
 | external_policy | | vuglec | domagoj |
 | click_and_collect | | | |
 | oliver_prepaid | | tonci, andro | |
-| skeniranje_poslovni | | vuglec | domagoj |
+| skeniranje_poslovni | | vuglec | darko |
 
 
 ### Okoline
