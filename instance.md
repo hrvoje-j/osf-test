@@ -4,7 +4,7 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | external_policy | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | sepa_admin | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | skeniranje_poslovni | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | click_and_collect | WPOSPP | compass test | test |
 | 7059 | OCV_TEST_6 | multiscreen | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | oliver_prepaid | WPOSPP | compass test | test |
@@ -31,6 +31,7 @@
 | external_policy | | vuglec | domagoj |
 | click_and_collect | | | |
 | oliver_prepaid | | tonci, andro | |
+| skeniranje_poslovni | | vuglec | domagoj |
 
 
 ### Okoline
