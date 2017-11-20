@@ -6,9 +6,11 @@
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | skeniranje_poslovni | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | click_and_collect | WPOSPP | compass test | test |
-| 7059 | OCV_TEST_6 | fix_arpu | WPOSPP | compass test | test |
+| 7059 | OCV_TEST_6 | mobile_arpu | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | oliver_prepaid | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | mudbug | WPOSPP | compass test | test |
+| 7089 | OCV_CRM_test |  | WPOST2 | ? | ? |
+
 
 
 ### Branchevi
@@ -33,12 +35,14 @@
 | oliver_prepaid | | tonci, andro | |
 | skeniranje_poslovni | | vuglec | darko |
 | fix_arpu | | hrvoje | |
+| mobile_arpu | | hrvoje | |
 
 
 ### Okoline
 1. mobilna
  *	WPOSPP - test
  *	WPOST - dev
+  *	WPOST2 - crm test
 
 2. fiksna
  * compass test - MasterDataServices:6324
