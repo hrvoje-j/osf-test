@@ -1,15 +1,15 @@
 ### OSF instance
-| port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina |
-| --- | --- | --- | --- | --- | --- |
-| 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
-| 7019 | OCV_TEST_2 | external_policy | WPOSPP | compass test | test |
-| 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | skeniranje_poslovni | WPOSPP | compass test | test |
-| 7049 | OCV_TEST_5 | click_and_collect | WPOSPP | compass test | test |
-| 7059 | OCV_TEST_6 | mobile_arpu | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | oliver_prepaid | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | mudbug | WPOSPP | compass test | test |
-| 7089 | OCV_CRM_test |  | WPOST2 | ? | ? |
+| port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina | startan |
+| --- | --- | --- | --- | --- | --- | --- |
+| 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  | :heavy_check_mark: |
+| 7019 | OCV_TEST_2 | dospijece_placanja | WPOSPP | compass test | test | :x: |
+| 7029 | OCV_TEST_3 | setup_modul | WPOSPP | compass test | test | :x: |
+| 7039 | OCV_TEST_4 |  | WPOSPP | compass test | test | :x: |
+| 7049 | OCV_TEST_5 | master_admin | WPOSPP | compass test | test | :heavy_check_mark: |
+| 7059 | OCV_TEST_6 | gdpr | WPOSPP | compass test | test | :heavy_check_mark: |
+| 7069 | OCV_TEST_7 | long_tail | WPOSPP | compass test | test | :heavy_check_mark: |
+| 7079 (7078 https) | OCV_TEST_8 | new_sales_tool | WPOSPP | compass test | test | :heavy_check_mark: |
+| 7089 | OCV_CRM_test | siebel_faza_1 | WPOST2 | ? | ? | :heavy_check_mark: |
 
 
 
@@ -28,7 +28,7 @@
 | sepa_admin | | hrvoje | darko |
 | webpos_cache | | hrvoje | balic |
 | magenta_tablet | | novotni | darko |
-| mudbug | | novotni | darko |
+| mudbug, setup_modul | | novotni | darko |
 | bus_spec_price | | hrvoje | darko |
 | external_policy | | vuglec | domagoj |
 | click_and_collect | | | |
@@ -36,6 +36,11 @@
 | skeniranje_poslovni | | vuglec | darko |
 | fix_arpu | | hrvoje | |
 | mobile_arpu | | hrvoje | |
+| dospijece_placanja | | zoran | |
+| master_admin | | zoran | |
+| gdpr | | novotni | darko |
+| new_sales_tool | | novotni | darko |
+| siebel_faza_1 | | hrvoje | darko, domagoj |
 
 
 ### Okoline
