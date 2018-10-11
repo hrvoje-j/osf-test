@@ -1,3 +1,5 @@
+#### Ovo ništa ne vrijedi, treba napraviti novi dokument za wl12
+
 ### OSF instance
 | port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina | startan |
 | --- | --- | --- | --- | --- | --- | --- |
