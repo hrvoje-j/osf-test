@@ -16,7 +16,7 @@
 | sepa | sepa | zoran | darko |
 | tbank | tbank | vuglec | darko/domagoj |
 | legal_representative | ovlaštena osoba | vuglec | domagoj |
-| McKinseyV2 | ovlaštena osoba | vuglec | darko |
+| McKinseyV2 | McKinsey nadogradnja preporuka  | vuglec | darko |
 | trajni_nalog | maknuta opcija korisnik ce sam do banke | vuglec | darko |
 | titan | titan faza 2, merge ponuda | zoran/hrvoje | bojan |
 
